@@ -7,7 +7,7 @@
 // variabler
 var tal = 111;
 var erDetRigtigt = false;
-var enStreng = "hej verden";
+var enStreng = "hej";
 
 // klister (+)
 // kommentarer
@@ -21,7 +21,7 @@ var enStreng = "hej verden";
 // noget her
 
 /* se resultatet af din kode i browserens udviklings-værktøj */
-console.log( enStreng  );
+console.log( tal );
 // skriv i browservinduet
 
 /* se resultatet af din kode, der hvor scriptet ligger i koden */
